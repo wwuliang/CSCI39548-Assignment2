@@ -4,51 +4,46 @@
     width: 100px;
     height: 100px;
     padding: 10px;
-    margin: 0px;
     margin-left: 0px;
     text-align: center;
 }
 
 .box-2{
     background-color: lightgreen;
-    border: 10px solid black;
+    border: 20px solid black;
     width: 100px;
     height: 100px;
     padding: 10px;
-    margin: 0px;
     margin-left: 140px;
     text-align: center;
 }
 
 .box-3{
     background-color: lightblue;
-    border: 10px solid black;
+    border: 40px solid black;
     width: 100px;
     height: 100px;
     padding: 10px;
-    margin: 0px;
-    margin-left: 280px;
+    margin-left: 300px;
     text-align: center;
 }
 
 .box-4{
     background-color: lightgoldenrodyellow;
-    border: 10px solid black;
+    border: 80px solid black;
     width: 100px;
     height: 100px;
     padding: 10px;
-    margin: 0px;
-    margin-left: 420px;
+    margin-left: 500px;
     text-align: center;
 }
 
 .box-5{
     background-color: lightgray;
-    border: 10px solid black;
+    border: 160px solid black;
     width: 100px;
     height: 100px;
     padding: 10px;
-    margin: 0px;
-    margin-left: 560px;
+    margin-left: 780px;
     text-align: center;
 }
